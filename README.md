@@ -1,4 +1,4 @@
 # restaurant-website using bootstrap
-### STEP
-#### npm i
-#### npm run dev
+### Step
+#### 1. npm i
+#### 2. npm run dev
